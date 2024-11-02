@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="VIP Gold Grand WLA" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="VIPGoldGrand" enableFreeSpin="Y" clientversion="1.0" gameId="300-2188-0" />
+	<GameClient name="VIP Gold Grand WLA" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="VIPGoldGrand" enableFreeSpin="Y" clientversion="1.0" gameId="300-2188-0" />
+	<GameClient name="VIP Gold Grand WLA" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="VIPGoldGrand" enableFreeSpin="Y" clientversion="1.0" gameId="300-2188-0" />
+</ClientConfig>
